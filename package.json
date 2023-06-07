@@ -1,11 +1,11 @@
 {
-  "name": "actually-nature-burst-090bo",
-  "productName": "actually-nature-burst-090bo",
-  "description": "My Electron application description",
+  "name": "Choons",
+  "productName": "Choons",
+  "description": "A iTunes-like music player, made for CoverFlowOS",
   "keywords": [],
   "main": "./main.js",
   "version": "1.0.0",
-  "author": "vilmarfernandes",
+  "author": "johnny-builder & DrawDrimer",
   "scripts": {
     "start": "electron ."
   },
