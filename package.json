@@ -1,16 +1,16 @@
 {
-  "name": "Choons-player",
-  "productName": "Choons-player",
+  "name": "actually-nature-burst-090bo",
+  "productName": "actually-nature-burst-090bo",
   "description": "My Electron application description",
   "keywords": [],
   "main": "./main.js",
   "version": "1.0.0",
-  "author": "Miguel",
+  "author": "vilmarfernandes",
   "scripts": {
     "start": "electron ."
   },
   "dependencies": {},
   "devDependencies": {
-    "electron": "24.3.0"
+    "electron": "24.2.0"
   }
 }
