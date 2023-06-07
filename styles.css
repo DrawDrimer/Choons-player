@@ -144,3 +144,8 @@ body {
   display: block;
 }
 /* Add styles here to customize the appearance of your app */
+ul {
+    ...
+    left: 0; /* add this line */
+    ...
+}
