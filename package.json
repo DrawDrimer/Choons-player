@@ -1,16 +1,16 @@
 {
-  "name": "Choons",
-  "productName": "Choons",
-  "description": "A iTunes-like music player, made for CoverFlowOS",
+  "name": "Choons-player",
+  "productName": "Choons-player",
+  "description": "My Electron application description",
   "keywords": [],
   "main": "./main.js",
   "version": "1.0.0",
-  "author": "johnny-builder & DrawDrimer",
+  "author": "Miguel",
   "scripts": {
     "start": "electron ."
   },
   "dependencies": {},
   "devDependencies": {
-    "electron": "24.2.0"
+    "electron": "25.0.0"
   }
 }
